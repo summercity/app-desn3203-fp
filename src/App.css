@@ -14,3 +14,8 @@
 .ant-modal-mask {
 	background-color: #000;
 }
+
+/* General App Level */
+.content h3 {
+	color: #add8e6;
+}
