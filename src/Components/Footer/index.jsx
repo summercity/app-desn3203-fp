@@ -7,13 +7,15 @@ function Footer() {
 				<div className="copyright">
 					&copy; Copyright{' '}
 					<strong>
-						<span>Restaurantly</span>
+						<span>The Dandy Brewing Company and tasting room</span>
 					</strong>
 					. All Rights Reserved
 				</div>
 				<div className="credits">
-					Designed by{' '}
-					<a href="https://bootstrapmade.com/">BootstrapMade</a>
+					Photos by{' '}
+					<a href="https://twitter.com/DandyAlesYYC">
+						Arif Ansari and Chris Wideman
+					</a>
 				</div>
 				<div className="social-links mt-3">
 					<a
