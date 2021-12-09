@@ -9,7 +9,7 @@ function TopBar() {
 						<span>+1 403 123321</span>
 					</i>
 					<i className="bi bi-clock d-flex align-items-center ms-4">
-						<span> Mon-Sat</span>
+						<span> Tuesday - Sunday</span>
 					</i>
 				</div>
 
