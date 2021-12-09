@@ -19,3 +19,10 @@
 .content h3 {
 	color: #add8e6;
 }
+.ant-btn-primary {
+	color: #fff;
+	border-color: #1b5e20;
+	background: #1b5e20;
+	text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+	box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+}

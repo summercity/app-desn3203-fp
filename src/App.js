@@ -25,20 +25,17 @@ import './App.css';
 const App = () => {
 	const [isModalVisible, setIsModalVisible] = useState(false);
 
-	// const showModal = () => {
-	// 	alert(0);
-	// 	setIsModalVisible(true);
-	// };
-
 	const handleOk = () => {
-		setIsModalVisible(false);
 		sessionStorage.setItem('age-auth', true);
+		window.location.reload();
 	};
 
 	useEffect(() => {
 		var ageAuth = sessionStorage.getItem('age-auth');
 		if (!ageAuth) {
 			setIsModalVisible(true);
+		} else {
+			setIsModalVisible(false);
 		}
 	}, []);
 
