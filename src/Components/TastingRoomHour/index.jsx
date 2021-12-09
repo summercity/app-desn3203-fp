@@ -31,7 +31,7 @@ function TastingRoomHour() {
 					<div className="col-lg-3">
 						<div className="info">
 							<div className="address">
-								<i className="bi bi-geo-alt"></i>
+								<i className="bi bi bi-clock"></i>
 								<h4>Wednesday</h4>
 								<p>11:30 am - 10 pm</p>
 							</div>
@@ -47,7 +47,7 @@ function TastingRoomHour() {
 					<div className="col-lg-3">
 						<div className="info">
 							<div className="address">
-								<i className="bi bi-geo-alt"></i>
+								<i className="bi bi bi-clock"></i>
 								<h4>Friday</h4>
 								<p>11:30 am - Midnight</p>
 							</div>
@@ -63,7 +63,7 @@ function TastingRoomHour() {
 					<div className="col-lg-3">
 						<div className="info">
 							<div className="email">
-								<i className="bi bi-envelope"></i>
+								<i className="bi bi bi-clock"></i>
 								<h4>Sunday</h4>
 								<p>10 am - 8 pm</p>
 							</div>
