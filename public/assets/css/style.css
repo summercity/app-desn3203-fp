@@ -1101,7 +1101,7 @@ section {
 	padding: 10px 12px;
 }
 .book-a-table .php-email-form button[type='submit'] {
-	background: #add8e6;
+	background: #1b5e20;
 	border: 0;
 	padding: 10px 35px;
 	color: #fff;
@@ -1109,7 +1109,7 @@ section {
 	border-radius: 50px;
 }
 .book-a-table .php-email-form button[type='submit']:hover {
-	background: #d3af71;
+	background: #add8e6;
 }
 
 /*--------------------------------------------------------------
@@ -1316,7 +1316,7 @@ section {
 	padding: 10px 12px;
 }
 .contact .php-email-form button[type='submit'] {
-	background: #add8e6;
+	background: #1b5e20;
 	border: 0;
 	padding: 10px 35px;
 	color: #fff;
@@ -1324,7 +1324,7 @@ section {
 	border-radius: 50px;
 }
 .contact .php-email-form button[type='submit']:hover {
-	background: #d3af71;
+	background: #add8e6;
 }
 @-webkit-keyframes animate-loading {
 	0% {
